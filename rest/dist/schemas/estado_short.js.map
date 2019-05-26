@@ -1,0 +1,1 @@
+{"version":3,"file":"estado_short.js","sourceRoot":"","sources":["../../src/schemas/estado_short.ts"],"names":[],"mappings":";;AAAA,uCAAoD;AAEpD,MAAM,UAAU,GAAqB;IACnC,KAAK,EAAE;QACL,IAAI,EAAE,MAAM;QACZ,QAAQ,EAAE,IAAI;QACd,MAAM,EAAE,IAAI;KACb;CACF,CAAC;AAMA,gCAAU;AAJZ,MAAM,MAAM,GAAW,IAAI,iBAAM,CAAC,UAAU,CAAC,CAAC;AAIhC,wBAAM;AAFpB,kBAAe,MAAM,CAAC"}
